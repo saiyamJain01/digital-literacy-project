@@ -47,4 +47,4 @@ A detailed research/case study on cyber threats (like Phishing or UPI fraud) and
 * `task-5-cybercrime/`: Case study and prevention guide.
 
 ---
-[cite_start]*This project is submitted as a 1-credit Pass/Fail internal assessment for the Digital Literacy course at VIT Bhopal.* [cite: 2, 91]
+
