@@ -1,5 +1,5 @@
 # digital-literacy-project
-# [cite_start]CSE0001 - Digital Literacy Project 🌐 [cite: 2]
+# CSE0001 - Digital Literacy Project 
 
 ## Student Details
 * **Name:** Saiyam Jain
@@ -11,34 +11,34 @@
 ---
 
 ## Project Overview 🚀
-[cite_start]This repository is a **Digital Literacy Portfolio** created as part of my role as a **Student Digital Ambassador**[cite: 4, 6]. [cite_start]The goal is to demonstrate essential digital skills, from creating a professional online presence to understanding cybercrime prevention and professional communication[cite: 5].
+This repository is a **Digital Literacy Portfolio** created as part of my role as a **Student Digital Ambassador**. The goal is to demonstrate essential digital skills, from creating a professional online presence to understanding cybercrime prevention and professional communication.
 
 ## Module Summaries 📚
 
-### [cite_start]Task 1: Digital Literacy Awareness Infographic [cite: 20]
-[cite_start]A visual resource created to help peers understand the importance of digital literacy, safe internet practices, and useful digital tools[cite: 21, 25].
-* [cite_start]**Folder:** `task-1-presentation/` [cite: 14]
+### Task 1: Digital Literacy Awareness Infographic 
+A visual resource created to help peers understand the importance of digital literacy, safe internet practices, and useful digital tools.
+* **Folder:** `task-1-presentation/` 
 
-### [cite_start]Task 2: Build Your Student Digital Portfolio [cite: 29]
-[cite_start]Setting up a professional digital footprint across platforms like GitHub, LinkedIn, and Kaggle to prepare for future academic and career opportunities[cite: 31, 33].
-* [cite_start]**Folder:** `task-2-portfolio/` [cite: 14]
+### Task 2: Build Your Student Digital Portfolio
+Setting up a professional digital footprint across platforms like GitHub, LinkedIn, and Kaggle to prepare for future academic and career opportunities.
+* **Folder:** `task-2-portfolio/` 
 
-### [cite_start]Task 3: Explore Coding & Collaboration Platforms [cite: 41]
-[cite_start]Focuses on technical growth using coding platforms and collaborative tools like Google Workspace[cite: 45].
-* [cite_start]**Digital Literacy Awareness Quiz (Google Form):** [https://forms.gle/Q4d4UyeA9LErRyh7A](https://forms.gle/Q4d4UyeA9LErRyh7A) 
-* [cite_start]**Folder:** `task-3-platforms/` [cite: 14]
+### Task 3: Explore Coding & Collaboration Platforms 
+Focuses on technical growth using coding platforms and collaborative tools like Google Workspace.
+* **Digital Literacy Awareness Quiz (Google Form):** [https://forms.gle/Q4d4UyeA9LErRyh7A](https://forms.gle/Q4d4UyeA9LErRyh7A) 
+* **Folder:** `task-3-platforms/` 
 
-### [cite_start]Task 4: Draft a Professional Email & Etiquette Guide [cite: 58]
-[cite_start]Demonstrates the ability to communicate professionally via email and provides a "Do's and Don'ts" guide for responsible social media use[cite: 60, 67, 68].
-* [cite_start]**Folder:** `task-4-email-etiquette/` [cite: 14]
+### Task 4: Draft a Professional Email & Etiquette Guide
+Demonstrates the ability to communicate professionally via email and provides a "Do's and Don'ts" guide for responsible social media use.
+* **Folder:** `task-4-email-etiquette/` 
 
-### [cite_start]Task 5: Cybercrime Awareness Case Study & Prevention [cite: 73]
-[cite_start]A detailed research/case study on cyber threats (like Phishing or UPI fraud) and a checklist to stay safe online[cite: 75, 77, 81].
-* [cite_start]**Folder:** `task-5-cybercrime/` [cite: 14]
+### Task 5: Cybercrime Awareness Case Study & Prevention
+A detailed research/case study on cyber threats (like Phishing or UPI fraud) and a checklist to stay safe online.
+* **Folder:** `task-5-cybercrime/` 
 
 ---
 
-## [cite_start]Repository Structure 📂 [cite: 13, 14]
+## Repository Structure 📂 
 * `README.md`: Project overview and student details.
 * `report/`: Contains the final Project_Report (PDF/Docx).
 * `task-1-presentation/`: Infographic design and description.
